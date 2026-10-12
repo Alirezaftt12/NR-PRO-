@@ -3,28 +3,40 @@
 
 # 💎 NR PRO
 
-### Developer • Bot Creator • Open Source
+### برنامه‌نویسی • توسعه ربات • پروژه‌های متن‌باز
 
-Welcome to my GitHub profile!
-
-I build bots, tools, and projects focused on automation and technology.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Alirezaftt12-181717?style=for-the-badge&logo=github)](https://github.com/Alirezaftt12)
+به صفحه رسمی NR PRO خوش اومدی! 💙
 
 </div>
 
 ---
 
-## 🚀 About NR PRO
+## 💖 حمایت مالی از NR PRO
 
-- 🛠️ Building useful tools and bots
-- 💻 Exploring software development
-- 🌐 Sharing open-source projects
+اگه پروژه‌هام برات مفید بودن، می‌تونی با ارز دیجیتال از توسعه و ادامه فعالیت‌های من حمایت کنی.
 
-## 💖 Support My Work
+تمام حمایت‌های شما به من انگیزه می‌ده تا پروژه‌های بهتر و کاربردی‌تری بسازم. ❤️
 
-If you enjoy my projects, you can support **NR PRO** with a cryptocurrency donation.
+### ₿ بیت‌کوین (BTC)
 
-> Wallet addresses will be added here soon.
+`1MP6SmjCpDXWMQPjcDttbRzpYwDdefhq1m`
 
-Thank you for your support! 💙
+### ♦ اتریوم (ETH)
+
+`0x50850d24a6C07615Ce835E385012d959FEa55f91`
+
+### 💚 تتر (USDT — شبکه BEP20)
+
+`0x50850d24a6C07615Ce835E385012d959FEa55f91`
+
+---
+
+### ⚠️ نکات مهم قبل از انتقال
+
+- برای ارسال تتر، حتماً شبکه **BEP20 (BNB Smart Chain)** رو انتخاب کن.
+- قبل از انتقال، آدرس کیف پول و شبکه رو با دقت بررسی کن.
+- برای جلوگیری از اشتباه، ابتدا می‌تونی مبلغ کمی آزمایشی ارسال کنی.
+
+از حمایت و همراهی شما ممنونم! 💙
+
+**NR PRO | ساختن، توسعه دادن، پیشرفت کردن 🚀**
